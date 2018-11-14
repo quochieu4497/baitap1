@@ -1,0 +1,20 @@
+{
+  "name": "baitap1",
+  "description": "baitap1",
+  "main": "index.js",
+  "authors": [
+    "quochieu_"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thebookute123/baitap1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

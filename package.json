@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thebookute123/baitap1/issues"
   },
-  "homepage": "https://github.com/thebookute123/baitap1#readme"
+  "homepage": "https://github.com/thebookute123/baitap1#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
