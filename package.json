@@ -1,0 +1,19 @@
+{
+  "name": "baitap1",
+  "version": "1.0.0",
+  "description": "baitap1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebookute123/baitap1.git"
+  },
+  "author": "quochieu_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebookute123/baitap1/issues"
+  },
+  "homepage": "https://github.com/thebookute123/baitap1#readme"
+}
